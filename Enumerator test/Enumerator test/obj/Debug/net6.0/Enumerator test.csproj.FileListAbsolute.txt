@@ -1,0 +1,14 @@
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\bin\Debug\net6.0\Enumerator test.exe
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\bin\Debug\net6.0\Enumerator test.deps.json
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\bin\Debug\net6.0\Enumerator test.runtimeconfig.json
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\bin\Debug\net6.0\Enumerator test.dll
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\bin\Debug\net6.0\Enumerator test.pdb
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.AssemblyInfoInputs.cache
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.AssemblyInfo.cs
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.csproj.CoreCompileInputs.cache
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.dll
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\refint\Enumerator test.dll
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.pdb
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\Enumerator test.genruntimeconfig.cache
+C:\Users\Allied Gaming\source\repos\Enumerator test\Enumerator test\obj\Debug\net6.0\ref\Enumerator test.dll
